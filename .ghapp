@@ -1,0 +1,10 @@
+{
+  "id": 56592321,
+  "created_at": "2024-10-30T21:02:40.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["lukoffstats.r-universe.dev"]
+}
